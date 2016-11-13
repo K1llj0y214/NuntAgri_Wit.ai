@@ -1,0 +1,8 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip NuntAgri.zip NuntAgri/app.json NuntAgri/entities/*.json NuntAgri/actions.json NuntAgri/stories.json NuntAgri/expressions.json",
+  "data" : {
+    "name" : "NuntAgri",
+    "lang" : "en"
+  }
+}

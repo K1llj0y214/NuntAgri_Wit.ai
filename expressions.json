@@ -1,0 +1,2440 @@
+{
+  "data" : [
+    {
+      "text" : "0 kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"0\"",
+          "start" : 0,
+          "end" : 1
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 5,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "10",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "10 kg cocaine",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"cocaine\"",
+          "start" : 6,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "10 kg of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 9,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "10 kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 6,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "10 kilograms of beef",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 16,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "10 kilos",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "10 kilos of beef and 12 liters of milk.",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 12,
+          "end" : 16
+        },
+        {
+          "entity" : "load",
+          "value" : "\"12\"",
+          "start" : 21,
+          "end" : 23
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 24,
+          "end" : 30
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 34,
+          "end" : 38
+        }
+      ]
+    },
+    {
+      "text" : "10 kilos of cocaine",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 8
+        },
+        {
+          "entity" : "product",
+          "value" : "\"cocaine\"",
+          "start" : 12,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "10 lbs of eggs, 20 kilograms of beef",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "product",
+          "value" : "\"eggs\"",
+          "start" : 10,
+          "end" : 14
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 16,
+          "end" : 18
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 19,
+          "end" : 28
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 32,
+          "end" : 36
+        }
+      ]
+    },
+    {
+      "text" : "10 strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 3,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "10 tons",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 3,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "100 gallons of milk",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Gallons\"",
+          "start" : 4,
+          "end" : 11
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 15,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "100 kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 6
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 7,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "100 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 17,
+          "end" : 25
+        }
+      ]
+    },
+    {
+      "text" : "100 kilograms potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 14,
+          "end" : 22
+        }
+      ]
+    },
+    {
+      "text" : "100 kilos potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 9
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 10,
+          "end" : 18
+        }
+      ]
+    },
+    {
+      "text" : "100 tons",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 4,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "100 tons of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 4
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"tons \"",
+          "start" : 4,
+          "end" : 9
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 12,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "100 tons of potatoes, 50 tons of corn",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"100 \"",
+          "start" : 0,
+          "end" : 4
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 4,
+          "end" : 9
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 12,
+          "end" : 20
+        },
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 22,
+          "end" : 24
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 25,
+          "end" : 29
+        },
+        {
+          "entity" : "product",
+          "value" : "\"corn\"",
+          "start" : 33,
+          "end" : 37
+        }
+      ]
+    },
+    {
+      "text" : "10kg cocaine",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"cocaine\"",
+          "start" : 5,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "10kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 5,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "110 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"110\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 17,
+          "end" : 25
+        }
+      ]
+    },
+    {
+      "text" : "110 km",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"110\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilometers\"",
+          "start" : 4,
+          "end" : 6
+        }
+      ]
+    },
+    {
+      "text" : "12 kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"12\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 6,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "120 Kilos",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"120 \"",
+          "start" : 0,
+          "end" : 4
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 9
+        }
+      ]
+    },
+    {
+      "text" : "120 kgs potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"120 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 7
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 8,
+          "end" : 16
+        }
+      ]
+    },
+    {
+      "text" : "120 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"120 \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 17,
+          "end" : 25
+        }
+      ]
+    },
+    {
+      "text" : "1234 Allen dr. Philadelphia, PA 16221",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"1234 Allen dr. Philadelphia, PA 16221\"",
+          "start" : 0,
+          "end" : 37
+        }
+      ]
+    },
+    {
+      "text" : "1234 waverly way, York, Pa 18223",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"1234 waverly way, York, Pa 18223\"",
+          "start" : 0,
+          "end" : 32
+        }
+      ]
+    },
+    {
+      "text" : "124 kilograms of Strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"124\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 17,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "12kg of strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"12\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 8,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "13kg of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"13\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 8,
+          "end" : 16
+        }
+      ]
+    },
+    {
+      "text" : "140 kilos potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"140\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 9
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 10,
+          "end" : 18
+        }
+      ]
+    },
+    {
+      "text" : "15 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"15\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "150 Kilograms",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"150\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 4,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "150 lbs",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"150\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Pounds\"",
+          "start" : 4,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "150lbs",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"150\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"lbs\"",
+          "start" : 3,
+          "end" : 6
+        }
+      ]
+    },
+    {
+      "text" : "20 kg of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 9,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "20 kg potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 6,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "20 kilograms of beef",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 16,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "20 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "20 kilograms of strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 16,
+          "end" : 28
+        }
+      ]
+    },
+    {
+      "text" : "200 lbs",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"200\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "23 kgs of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"23\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 6
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 10,
+          "end" : 18
+        }
+      ]
+    },
+    {
+      "text" : "245 Saint Phillip Ct",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"245 Saint Phillip Ct\"",
+          "start" : 0,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "246 Saint Phillip Ct",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"246 Saint Phillip Ct\"",
+          "start" : 0,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "246 Saint Phillip Ct.",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"246 Saint Phillip Ct.\"",
+          "start" : 0,
+          "end" : 21
+        }
+      ]
+    },
+    {
+      "text" : "246 Saint Phillip Ct. Fremont, CA 94539",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"246 Saint Phillip Ct. Fremont, CA 94539\"",
+          "start" : 0,
+          "end" : 39
+        }
+      ]
+    },
+    {
+      "text" : "246 dog lane",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"246 dog lane\"",
+          "start" : 0,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "3 kilograms of strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"3\"",
+          "start" : 0,
+          "end" : 1
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 11
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 15,
+          "end" : 27
+        }
+      ]
+    },
+    {
+      "text" : "30 kilograms of corn",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"30\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"corn\"",
+          "start" : 16,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "30 miles",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"30\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"miles\"",
+          "start" : 3,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "30 potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"30\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 3,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "34500 cartons of eggs",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"34500\"",
+          "start" : 0,
+          "end" : 5
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Cartons\"",
+          "start" : 6,
+          "end" : 13
+        },
+        {
+          "entity" : "product",
+          "value" : "\"eggs\"",
+          "start" : 17,
+          "end" : 21
+        }
+      ]
+    },
+    {
+      "text" : "369 dog lane",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"369 dog lane\"",
+          "start" : 0,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "38 kgs potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"38\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 6
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 7,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "3896 sterling way Columbia pa",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"3896 sterling way Columbia pa\"",
+          "start" : 0,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "446 road run lane, Altoona, PA 17112",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"446 road run lane, Altoona, PA 17112\"",
+          "start" : 0,
+          "end" : 36
+        }
+      ]
+    },
+    {
+      "text" : "45 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"45\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "4500 tonnes of apples",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"4500\"",
+          "start" : 0,
+          "end" : 4
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tonnes\"",
+          "start" : 5,
+          "end" : 11
+        },
+        {
+          "entity" : "product",
+          "value" : "\"apples\"",
+          "start" : 15,
+          "end" : 21
+        }
+      ]
+    },
+    {
+      "text" : "5",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"5\"",
+          "start" : 0,
+          "end" : 1
+        }
+      ]
+    },
+    {
+      "text" : "50 Kilograms",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "50 kg of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 5
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 9,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "50 kilograms",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "50 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "50 kilometers",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilometers\"",
+          "start" : 3,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "50 kilos",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "50 pounds",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Pounds\"",
+          "start" : 3,
+          "end" : 9
+        }
+      ]
+    },
+    {
+      "text" : "5555 try hard lane, Middletown, PA 17420",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"5555 try hard lane, Middletown, PA 17420\"",
+          "start" : 0,
+          "end" : 40
+        }
+      ]
+    },
+    {
+      "text" : "637 Ritu Lane California 93737",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"637 Ritu Lane California 93737\"",
+          "start" : 0,
+          "end" : 30
+        }
+      ]
+    },
+    {
+      "text" : "6373 snide street",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"6373 snide street\"",
+          "start" : 0,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "667 dog lane",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"667 dog lane\"",
+          "start" : 0,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "70 kgs of strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"70\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 6
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 10,
+          "end" : 22
+        }
+      ]
+    },
+    {
+      "text" : "70 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"70\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "70kg strawberries",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"70\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 2,
+          "end" : 4
+        },
+        {
+          "entity" : "product",
+          "value" : "\"strawberries\"",
+          "start" : 5,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "7352 althea Ave Harrisburg PA 17112",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7352 althea Ave Harrisburg\"",
+          "start" : 0,
+          "end" : 26
+        }
+      ]
+    },
+    {
+      "text" : "7723 hill drive Middletown, PA 17332",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7723 hill drive Middletown, PA 17332\"",
+          "start" : 0,
+          "end" : 36
+        }
+      ]
+    },
+    {
+      "text" : "7733 Theodore drive",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7733 Theodore drive\"",
+          "start" : 0,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "7735 Althea Ave, Harrisburg, Pa 17112",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7735 Althea Ave, Harrisburg, Pa 17112\"",
+          "start" : 0,
+          "end" : 37
+        }
+      ]
+    },
+    {
+      "text" : "7735 Althea Ave.",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7735 Althea Ave.\"",
+          "start" : 0,
+          "end" : 16
+        }
+      ]
+    },
+    {
+      "text" : "7735 Althea Ave. Harrisburg, Pa 17112",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7735 Althea Ave. Harrisburg, Pa 17112\"",
+          "start" : 0,
+          "end" : 37
+        }
+      ]
+    },
+    {
+      "text" : "7735 Friday street",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7735 Friday street\"",
+          "start" : 0,
+          "end" : 18
+        }
+      ]
+    },
+    {
+      "text" : "7735 althea Ave",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"7735 althea Ave\"",
+          "start" : 0,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "80 kilograms of potatoes",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"80\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 3,
+          "end" : 12
+        },
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 16,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "8992 libertarian lane, state college, PA 34112",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"8992 libertarian lane, state college, PA 34112\"",
+          "start" : 0,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Buy",
+      "entities" : [
+        {
+          "entity" : "buy",
+          "value" : "\"Buy\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "Deliver",
+      "entities" : [
+        {
+          "entity" : "deliver",
+          "value" : "\"Deliver\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "Done",
+      "entities" : [
+        {
+          "entity" : "affirmation",
+          "value" : "\"done\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "Hello",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "Hello Nuntagri",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "Hello, I would like to buy 10 liters of milk, 20 kilograms of apples, and 50 kilograms of pork.",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 27,
+          "end" : 29
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 30,
+          "end" : 36
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 40,
+          "end" : 44
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 46,
+          "end" : 48
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 49,
+          "end" : 58
+        },
+        {
+          "entity" : "product",
+          "value" : "\"apples\"",
+          "start" : 62,
+          "end" : 68
+        },
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 74,
+          "end" : 76
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 77,
+          "end" : 86
+        },
+        {
+          "entity" : "product",
+          "value" : "\"pork\"",
+          "start" : 90,
+          "end" : 94
+        }
+      ]
+    },
+    {
+      "text" : "Hello, sell",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 5
+        },
+        {
+          "entity" : "sell",
+          "value" : "\"Sell\"",
+          "start" : 7,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "Hello, would you like to buy, sell, or deliver?",
+      "entities" : [
+        {
+          "entity" : "buy",
+          "value" : "\"Buy\"",
+          "start" : 25,
+          "end" : 28
+        },
+        {
+          "entity" : "sell",
+          "value" : "\"Sell\"",
+          "start" : 30,
+          "end" : 34
+        },
+        {
+          "entity" : "deliver",
+          "value" : "\"Deliver\"",
+          "start" : 39,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Help",
+      "entities" : [
+        {
+          "entity" : "assistance",
+          "value" : "\"Help\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "Herro",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "Hey",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "Hey Nuntagri",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "Hi",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "I am a delivery man",
+      "entities" : [
+        {
+          "entity" : "deliver",
+          "value" : "\"Deliver\"",
+          "start" : 7,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "I have about 50 kilos of mushrooms",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"50\"",
+          "start" : 13,
+          "end" : 15
+        },
+        {
+          "entity" : "product",
+          "value" : "\"mushrooms\"",
+          "start" : 25,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "I would like to buy 10 cartons of eggs, 20 kilograms of beef, and 5 liters of milk.",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 20,
+          "end" : 22
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"cartons\"",
+          "start" : 23,
+          "end" : 30
+        },
+        {
+          "entity" : "product",
+          "value" : "\"eggs\"",
+          "start" : 34,
+          "end" : 38
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 40,
+          "end" : 42
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 43,
+          "end" : 52
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 56,
+          "end" : 60
+        },
+        {
+          "entity" : "load",
+          "value" : "\"5\"",
+          "start" : 66,
+          "end" : 67
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 68,
+          "end" : 74
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 78,
+          "end" : 82
+        }
+      ]
+    },
+    {
+      "text" : "I would like to buy 10 kilograms of apples, 20 liters of milk, and 40 kilograms of beef.",
+      "entities" : [
+        {
+          "entity" : "buy",
+          "value" : "\"buy\"",
+          "start" : 16,
+          "end" : 19
+        },
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 20,
+          "end" : 22
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 23,
+          "end" : 32
+        },
+        {
+          "entity" : "product",
+          "value" : "\"apples\"",
+          "start" : 36,
+          "end" : 42
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 44,
+          "end" : 46
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 47,
+          "end" : 53
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 57,
+          "end" : 61
+        },
+        {
+          "entity" : "load",
+          "value" : "\"40\"",
+          "start" : 67,
+          "end" : 69
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 70,
+          "end" : 79
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 83,
+          "end" : 87
+        }
+      ]
+    },
+    {
+      "text" : "I would like to buy 20 lbs of beef",
+      "entities" : [
+        {
+          "entity" : "buy",
+          "value" : "\"Buy\"",
+          "start" : 16,
+          "end" : 19
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 20,
+          "end" : 22
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 30,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "I would like to sell 10 cartons of eggs, 20 liters of water, and milk",
+      "entities" : [
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 21,
+          "end" : 23
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"cartons\"",
+          "start" : 24,
+          "end" : 31
+        },
+        {
+          "entity" : "product",
+          "value" : "\"eggs\"",
+          "start" : 35,
+          "end" : 39
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 41,
+          "end" : 43
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 44,
+          "end" : 50
+        },
+        {
+          "entity" : "product",
+          "value" : "\"water\"",
+          "start" : 54,
+          "end" : 59
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 65,
+          "end" : 69
+        }
+      ]
+    },
+    {
+      "text" : "I would like to sell 10 kilograms of apples, 20 liters of milk, and 40 kilograms of beef.",
+      "entities" : [
+        {
+          "entity" : "sell",
+          "value" : "\"sell\"",
+          "start" : 16,
+          "end" : 20
+        },
+        {
+          "entity" : "load",
+          "value" : "\"10\"",
+          "start" : 21,
+          "end" : 23
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 24,
+          "end" : 33
+        },
+        {
+          "entity" : "product",
+          "value" : "\"apples\"",
+          "start" : 37,
+          "end" : 43
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 45,
+          "end" : 47
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Liters\"",
+          "start" : 48,
+          "end" : 54
+        },
+        {
+          "entity" : "product",
+          "value" : "\"milk\"",
+          "start" : 58,
+          "end" : 62
+        },
+        {
+          "entity" : "load",
+          "value" : "\"40\"",
+          "start" : 68,
+          "end" : 70
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 71,
+          "end" : 80
+        },
+        {
+          "entity" : "product",
+          "value" : "\"beef\"",
+          "start" : 84,
+          "end" : 88
+        }
+      ]
+    },
+    {
+      "text" : "I would like to sell 20 cartons of eggs",
+      "entities" : [
+        {
+          "entity" : "sell",
+          "value" : "\"Sell\"",
+          "start" : 16,
+          "end" : 20
+        },
+        {
+          "entity" : "load",
+          "value" : "\"20\"",
+          "start" : 21,
+          "end" : 23
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"cartons\"",
+          "start" : 24,
+          "end" : 31
+        },
+        {
+          "entity" : "product",
+          "value" : "\"eggs\"",
+          "start" : 35,
+          "end" : 39
+        }
+      ]
+    },
+    {
+      "text" : "No",
+      "entities" : [
+        {
+          "entity" : "no",
+          "value" : "\"No\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "Pennsylvania State University Park",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"Pennsylvania State University Park\"",
+          "start" : 0,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "Please enter the full address where the order can be delivered."
+    },
+    {
+      "text" : "Purchase"
+    },
+    {
+      "text" : "Sell",
+      "entities" : [
+        {
+          "entity" : "sell",
+          "value" : "\"Sell\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "Seller",
+      "entities" : [
+        {
+          "entity" : "sell",
+          "value" : "\"Sell\"",
+          "start" : 0,
+          "end" : 6
+        }
+      ]
+    },
+    {
+      "text" : "Sup",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "What products are you looking for?"
+    },
+    {
+      "text" : "Wheat",
+      "entities" : [
+        {
+          "entity" : "product",
+          "value" : "\"Wheat\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "Would you like to try another order?"
+    },
+    {
+      "text" : "Yes",
+      "entities" : [
+        {
+          "entity" : "yes",
+          "value" : "\"Yes\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "Yo",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "buy"
+    },
+    {
+      "text" : "buyer",
+      "entities" : [
+        {
+          "entity" : "buy",
+          "value" : "\"Buy\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "corn",
+      "entities" : [
+        {
+          "entity" : "product",
+          "value" : "\"corn\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "deliver"
+    },
+    {
+      "text" : "done",
+      "entities" : [
+        {
+          "entity" : "affirmation",
+          "value" : "\"done\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "hello",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Hello\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "kg",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "kgs",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "kilograms",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\""
+        }
+      ]
+    },
+    {
+      "text" : "kilos",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilograms\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "km",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Kilometers\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "lbs",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Pounds\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "milk"
+    },
+    {
+      "text" : "no",
+      "entities" : [
+        {
+          "entity" : "no",
+          "value" : "\"no\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "nope"
+    },
+    {
+      "text" : "potatoes",
+      "entities" : [
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "potatoes, 60 tons",
+      "entities" : [
+        {
+          "entity" : "product",
+          "value" : "\"potatoes\"",
+          "start" : 0,
+          "end" : 8
+        },
+        {
+          "entity" : "load",
+          "value" : "\"60\"",
+          "start" : 10,
+          "end" : 12
+        },
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 13,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "sell"
+    },
+    {
+      "text" : "tons",
+      "entities" : [
+        {
+          "entity" : "measurement",
+          "value" : "\"Tons\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "yea",
+      "entities" : [
+        {
+          "entity" : "yes",
+          "value" : "\"Yes\""
+        }
+      ]
+    },
+    {
+      "text" : "yes",
+      "entities" : [
+        {
+          "entity" : "yes",
+          "value" : "\"Yes\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    }
+  ]
+}

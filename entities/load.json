@@ -1,0 +1,188 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "free-text",
+      "free-text",
+      "keywords",
+      "keywords",
+      "keywords"
+    ],
+    "name" : "load",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "load",
+    "values" : [
+      {
+        "value" : "0",
+        "expressions" : [
+          "0"
+        ]
+      },
+      {
+        "value" : "10",
+        "expressions" : [
+          "10"
+        ]
+      },
+      {
+        "value" : "100 ",
+        "expressions" : [
+          "100 "
+        ]
+      },
+      {
+        "value" : "100 ",
+        "expressions" : [
+          "100 "
+        ]
+      },
+      {
+        "value" : "100 ",
+        "expressions" : [
+          "100 "
+        ]
+      },
+      {
+        "value" : "110",
+        "expressions" : [
+          "110"
+        ]
+      },
+      {
+        "value" : "12",
+        "expressions" : [
+          "12"
+        ]
+      },
+      {
+        "value" : "120 ",
+        "expressions" : [
+          "120 "
+        ]
+      },
+      {
+        "value" : "124",
+        "expressions" : [
+          "124"
+        ]
+      },
+      {
+        "value" : "13",
+        "expressions" : [
+          "13"
+        ]
+      },
+      {
+        "value" : "140",
+        "expressions" : [
+          "140"
+        ]
+      },
+      {
+        "value" : "15",
+        "expressions" : [
+          "15"
+        ]
+      },
+      {
+        "value" : "150",
+        "expressions" : [
+          "150"
+        ]
+      },
+      {
+        "value" : "20",
+        "expressions" : [
+          "20"
+        ]
+      },
+      {
+        "value" : "200",
+        "expressions" : [
+          "200"
+        ]
+      },
+      {
+        "value" : "23",
+        "expressions" : [
+          "23"
+        ]
+      },
+      {
+        "value" : "3",
+        "expressions" : [
+          "3"
+        ]
+      },
+      {
+        "value" : "30",
+        "expressions" : [
+          "30"
+        ]
+      },
+      {
+        "value" : "34500",
+        "expressions" : [
+          "34500"
+        ]
+      },
+      {
+        "value" : "38",
+        "expressions" : [
+          "38"
+        ]
+      },
+      {
+        "value" : "40",
+        "expressions" : [
+          "40"
+        ]
+      },
+      {
+        "value" : "45",
+        "expressions" : [
+          "45"
+        ]
+      },
+      {
+        "value" : "4500",
+        "expressions" : [
+          "4500"
+        ]
+      },
+      {
+        "value" : "5",
+        "expressions" : [
+          "5"
+        ]
+      },
+      {
+        "value" : "50",
+        "expressions" : [
+          "50"
+        ]
+      },
+      {
+        "value" : "60",
+        "expressions" : [
+          "60"
+        ]
+      },
+      {
+        "value" : "70",
+        "expressions" : [
+          "70"
+        ]
+      },
+      {
+        "value" : "80",
+        "expressions" : [
+          "80"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "deliver",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "deliver",
+    "values" : [
+      {
+        "value" : "Deliver",
+        "expressions" : [
+          "Deliver"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "assistance",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "assistance",
+    "values" : [
+      {
+        "value" : "Help",
+        "expressions" : [
+          "Help"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

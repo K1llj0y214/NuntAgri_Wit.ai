@@ -1,0 +1,339 @@
+{
+  "data" : [
+    {
+      "id" : "function-complete",
+      "type" : "function",
+      "name" : "complete"
+    },
+    {
+      "id" : "function-createOrder",
+      "type" : "function",
+      "name" : "createOrder",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-delivererInfo",
+      "type" : "function",
+      "name" : "delivererInfo",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-findDestination",
+      "type" : "function",
+      "name" : "findDestination",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-getProductList",
+      "type" : "function",
+      "name" : "getProductList",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-parseProducts",
+      "type" : "function",
+      "name" : "parseProducts",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-retrieveOffers",
+      "type" : "function",
+      "name" : "retrieveOffers",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "function-verifyAddress",
+      "type" : "function",
+      "name" : "verifyAddress",
+      "requirements" : [
+        {
+          "name" : "affirmation",
+          "negative" : true
+        }
+      ]
+    },
+    {
+      "id" : "template- Please enter the full address where the order can be delivered. ",
+      "type" : "template",
+      "template" : " Please enter the full address where the order can be delivered. "
+    },
+    {
+      "id" : "template-Hello, would you like to buy, sell, or deliver?",
+      "type" : "template",
+      "template" : "Hello, would you like to buy, sell, or deliver?"
+    },
+    {
+      "id" : "template-How much are you able to transport and what range are you willing to travel for deliveries?",
+      "type" : "template",
+      "template" : "How much are you able to transport and what range are you willing to travel for deliveries?"
+    },
+    {
+      "id" : "template-How much are you able to transport?",
+      "type" : "template",
+      "template" : "How much are you able to transport?"
+    },
+    {
+      "id" : "template-I am sorry, but you have entered an invalid load limit.",
+      "type" : "template",
+      "template" : "I am sorry, but you have entered an invalid load limit."
+    },
+    {
+      "id" : "template-I am sorry, but you have entered an invalid location.",
+      "type" : "template",
+      "template" : "I am sorry, but you have entered an invalid location."
+    },
+    {
+      "id" : "template-I am sorry, but you have entered an invalid travel limit.",
+      "type" : "template",
+      "template" : "I am sorry, but you have entered an invalid travel limit."
+    },
+    {
+      "id" : "template-I am unable to process your order at this time.",
+      "type" : "template",
+      "template" : "I am unable to process your order at this time."
+    },
+    {
+      "id" : "template-I am unable to process your request at this time.",
+      "type" : "template",
+      "template" : "I am unable to process your request at this time."
+    },
+    {
+      "id" : "template-I have verified your address and I will contact you when I have a list of offers.",
+      "type" : "template",
+      "template" : "I have verified your address and I will contact you when I have a list of offers."
+    },
+    {
+      "id" : "template-I have verified your address and I will send you local buyers when I find them.",
+      "type" : "template",
+      "template" : "I have verified your address and I will send you local buyers when I find them."
+    },
+    {
+      "id" : "template-I have verified your address and I will send you local offers when I find them.",
+      "type" : "template",
+      "template" : "I have verified your address and I will send you local offers when I find them."
+    },
+    {
+      "id" : "template-I have verified your address and I will send you local transportation when I find a buyer.",
+      "type" : "template",
+      "template" : "I have verified your address and I will send you local transportation when I find a buyer."
+    },
+    {
+      "id" : "template-I have verified your address. Would you like me to send you local offers?",
+      "type" : "template",
+      "template" : "I have verified your address. Would you like me to send you local offers?"
+    },
+    {
+      "id" : "template-If you ever decide to change home locations, change your load transportation limit, or decide to change your transit limit, please just resubmit your application here to override your previous submission.",
+      "type" : "template",
+      "template" : "If you ever decide to change home locations, change your load transportation limit, or decide to change your transit limit, please just resubmit your application here to override your previous submission."
+    },
+    {
+      "id" : "template-Ok",
+      "type" : "template",
+      "template" : "Ok"
+    },
+    {
+      "id" : "template-Ok.",
+      "type" : "template",
+      "template" : "Ok."
+    },
+    {
+      "id" : "template-Ok. I will find you a deliverer once ",
+      "type" : "template",
+      "template" : "Ok. I will find you a deliverer once "
+    },
+    {
+      "id" : "template-Ok. I will find you local tranportation once I find you a buyer. ",
+      "type" : "template",
+      "template" : "Ok. I will find you local tranportation once I find you a buyer. "
+    },
+    {
+      "id" : "template-Okay, let me see what I can do.",
+      "type" : "template",
+      "template" : "Okay, let me see what I can do."
+    },
+    {
+      "id" : "template-Okay. Thank you for using NuntAgri",
+      "type" : "template",
+      "template" : "Okay. Thank you for using NuntAgri"
+    },
+    {
+      "id" : "template-Okay. Thank you for using NuntAgri.",
+      "type" : "template",
+      "template" : "Okay. Thank you for using NuntAgri."
+    },
+    {
+      "id" : "template-Okay. Thank you for using Nuntagri",
+      "type" : "template",
+      "template" : "Okay. Thank you for using Nuntagri"
+    },
+    {
+      "id" : "template-Okay. Thank you for using Nuntagri.",
+      "type" : "template",
+      "template" : "Okay. Thank you for using Nuntagri."
+    },
+    {
+      "id" : "template-Okay. Thank you for using our service.",
+      "type" : "template",
+      "template" : "Okay. Thank you for using our service."
+    },
+    {
+      "id" : "template-Please choose the products are you looking for: {list}",
+      "type" : "template",
+      "template" : "Please choose the products are you looking for: {list}",
+      "requirements" : [
+        {
+          "name" : "list",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Please choose the products you are looking for: {list}",
+      "type" : "template",
+      "template" : "Please choose the products you are looking for: {list}",
+      "requirements" : [
+        {
+          "name" : "list",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Please enter the address where the order can be delivered.",
+      "type" : "template",
+      "template" : "Please enter the address where the order can be delivered."
+    },
+    {
+      "id" : "template-Please enter the address where the order can be retrieved.",
+      "type" : "template",
+      "template" : "Please enter the address where the order can be retrieved."
+    },
+    {
+      "id" : "template-Please enter the address where the order can be retrieved.",
+      "type" : "template",
+      "template" : "Please enter the address where the order can be retrieved."
+    },
+    {
+      "id" : "template-Please enter the full address where the order can be delivered.",
+      "type" : "template",
+      "template" : "Please enter the full address where the order can be delivered."
+    },
+    {
+      "id" : "template-Please enter the full address where you are making deliveries from. I will use this address to find distributors near you.",
+      "type" : "template",
+      "template" : "Please enter the full address where you are making deliveries from. I will use this address to find distributors near you."
+    },
+    {
+      "id" : "template-Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you.",
+      "type" : "template",
+      "template" : "Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you."
+    },
+    {
+      "id" : "template-Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you. Enter the word \"done\" to reset and start a new session.",
+      "type" : "template",
+      "template" : "Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you. Enter the word \"done\" to reset and start a new session."
+    },
+    {
+      "id" : "template-Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you. Enter the word done to reset and start a new session.",
+      "type" : "template",
+      "template" : "Say hello and I will ask you all of the questions that I need you to answer. Once I have all of the information I need, I will do all of the work for you. Enter the word done to reset and start a new session."
+    },
+    {
+      "id" : "template-Thank you for providing me with your information. You have been added to the database and I will contact you when I have an order for you to ship.",
+      "type" : "template",
+      "template" : "Thank you for providing me with your information. You have been added to the database and I will contact you when I have an order for you to ship."
+    },
+    {
+      "id" : "template-Thank you for using NuntAgri. Goodbye.",
+      "type" : "template",
+      "template" : "Thank you for using NuntAgri. Goodbye."
+    },
+    {
+      "id" : "template-Thank you for using Nuntagri. Goodbye.",
+      "type" : "template",
+      "template" : "Thank you for using Nuntagri. Goodbye."
+    },
+    {
+      "id" : "template-What is the distance you are willing to travel for deliveries?",
+      "type" : "template",
+      "template" : "What is the distance you are willing to travel for deliveries?"
+    },
+    {
+      "id" : "template-What products are you looking for?",
+      "type" : "template",
+      "template" : "What products are you looking for?"
+    },
+    {
+      "id" : "template-What products do you have to offer?",
+      "type" : "template",
+      "template" : "What products do you have to offer?"
+    },
+    {
+      "id" : "template-Would you like to try another distance?",
+      "type" : "template",
+      "template" : "Would you like to try another distance?"
+    },
+    {
+      "id" : "template-Would you like to try another location?",
+      "type" : "template",
+      "template" : "Would you like to try another location?"
+    },
+    {
+      "id" : "template-Would you like to try another order?",
+      "type" : "template",
+      "template" : "Would you like to try another order?"
+    },
+    {
+      "id" : "template-Would you like to try another request?",
+      "type" : "template",
+      "template" : "Would you like to try another request?"
+    },
+    {
+      "id" : "template-Would you like to try another weight?",
+      "type" : "template",
+      "template" : "Would you like to try another weight?"
+    },
+    {
+      "id" : "template-{action}",
+      "type" : "template",
+      "template" : "{action}",
+      "requirements" : [
+        {
+          "name" : "action",
+          "negative" : false
+        }
+      ]
+    }
+  ]
+}

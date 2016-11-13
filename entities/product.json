@@ -1,0 +1,112 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "free-text",
+      "free-text",
+      "free-text",
+      "keywords",
+      "keywords",
+      "keywords",
+      "keywords"
+    ],
+    "name" : "product",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "product",
+    "values" : [
+      {
+        "value" : "Wheat",
+        "expressions" : [
+          "Wheat"
+        ]
+      },
+      {
+        "value" : "apples",
+        "expressions" : [
+          "apples"
+        ]
+      },
+      {
+        "value" : "beef",
+        "expressions" : [
+          "beef"
+        ]
+      },
+      {
+        "value" : "cocaine",
+        "expressions" : [
+          "cocaine"
+        ]
+      },
+      {
+        "value" : "corn",
+        "expressions" : [
+          "corn"
+        ]
+      },
+      {
+        "value" : "eggs",
+        "expressions" : [
+          "eggs"
+        ]
+      },
+      {
+        "value" : "milk",
+        "expressions" : [
+          "milk"
+        ]
+      },
+      {
+        "value" : "mushrooms",
+        "expressions" : [
+          "mushrooms"
+        ]
+      },
+      {
+        "value" : "pork",
+        "expressions" : [
+          "pork"
+        ]
+      },
+      {
+        "value" : "potatoes",
+        "expressions" : [
+          "potatoes"
+        ]
+      },
+      {
+        "value" : "potatoes",
+        "expressions" : [
+          "potatoes"
+        ]
+      },
+      {
+        "value" : "potatoes",
+        "expressions" : [
+          "potatoes"
+        ]
+      },
+      {
+        "value" : "potatoes",
+        "expressions" : [
+          "potatoes"
+        ]
+      },
+      {
+        "value" : "strawberries",
+        "expressions" : [
+          "strawberries"
+        ]
+      },
+      {
+        "value" : "water",
+        "expressions" : [
+          "water"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

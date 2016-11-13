@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "affirmation",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "affirmation",
+    "values" : [
+      {
+        "value" : "done",
+        "expressions" : [
+          "done"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

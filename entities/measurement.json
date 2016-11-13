@@ -1,0 +1,88 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "free-text",
+      "free-text",
+      "keywords",
+      "keywords",
+      "keywords",
+      "trait"
+    ],
+    "name" : "measurement",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "measurement",
+    "values" : [
+      {
+        "value" : "Cartons",
+        "expressions" : [
+          "cartons"
+        ]
+      },
+      {
+        "value" : "Gallons",
+        "expressions" : [
+          "Gallons"
+        ]
+      },
+      {
+        "value" : "Kilograms",
+        "metadata" : "kilos",
+        "expressions" : [
+          "kg",
+          "kgs",
+          "kilograms",
+          "kilos"
+        ]
+      },
+      {
+        "value" : "Kilometers",
+        "expressions" : [
+          "Kilometers",
+          "km"
+        ]
+      },
+      {
+        "value" : "Liters",
+        "expressions" : [
+          "Liters"
+        ]
+      },
+      {
+        "value" : "Miles",
+        "expressions" : [
+          "miles"
+        ]
+      },
+      {
+        "value" : "Pounds",
+        "metadata" : "lbs",
+        "expressions" : [
+          "Pounds",
+          "lbs"
+        ]
+      },
+      {
+        "value" : "Tonnes",
+        "expressions" : [
+          "Tonnes"
+        ]
+      },
+      {
+        "value" : "Tons",
+        "expressions" : [
+          "Tons"
+        ]
+      },
+      {
+        "value" : "lbs",
+        "expressions" : [
+          "lbs"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

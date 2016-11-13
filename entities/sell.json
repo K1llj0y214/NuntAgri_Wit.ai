@@ -1,0 +1,30 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "free-text",
+      "keywords",
+      "keywords"
+    ],
+    "name" : "sell",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "sell",
+    "values" : [
+      {
+        "value" : "Sell",
+        "expressions" : [
+          "Sell"
+        ]
+      },
+      {
+        "value" : "sell",
+        "expressions" : [
+          "Sell"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}
